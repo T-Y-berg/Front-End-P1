@@ -1,0 +1,47 @@
+header {
+  background-image: url("./assets/img/theme/img-1-1200x1000.jpg");
+  background-repeat: repeat;
+}
+
+aside {
+  background-color: ＃e3e3e3;
+}
+
+section {
+  background-color: #e9ecef;
+  padding: 10px 10px;
+  margin: 10px 0px;
+}
+
+section.btn {
+  position: absolute;
+  right: 20px;
+}
+
+footer>* {
+  text-align: center;
+}
+
+aside>h3 {
+  background-color: #ced4da;
+  color: #525f7f;
+  padding: 5px;
+}
+
+aside {
+  padding: 3px;
+  margin: 3px;
+}
+
+.blog-card {
+  background-color: white;
+  padding: 10px;
+}
+
+.card-body {
+  background-color: #adb5bd;
+}
+
+.sh-white {
+  text-shadow: 1px 0 5px white;
+}
